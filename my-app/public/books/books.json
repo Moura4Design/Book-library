@@ -1,0 +1,22 @@
+[
+  {"id": 1, "title": "To Kill a Mockingbird", "author": "Harper Lee", "checked": false},
+  {"id": 2, "title": "1984", "author": "George Orwell", "checked": false},
+  {"id": 3, "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "checked": false},
+  {"id": 4, "title": "Pride and Prejudice", "author": "Jane Austen", "checked": false},
+  {"id": 5, "title": "The Catcher in the Rye", "author": "J.D. Salinger", "checked": false},
+  {"id": 6, "title": "Moby-Dick", "author": "George Orwell", "checked": false},
+  {"id": 7, "title": "War and Peace", "author": "Leo Tolstoy", "checked": false},
+  {"id": 8, "title": "The Alchemist", "author": "Paulo Coelho", "checked": false},
+  {"id": 9, "title": "Brave New World", "author": "Aldous Huxley", "checked": false},
+  {"id": 10, "title": "The Lord of the Rings", "author": "J.R.R. Tolkien", "checked": false},
+  {"id": 11, "title": "Jane Eyre", "author": "Charlotte Brontë", "checked": false},
+  {"id": 12, "title": "Wuthering Heights", "author": "Emily Brontë", "checked": false},
+  {"id": 13, "title": "Crime and Punishment", "author": "Fyodor Dostoevsky", "checked": false},
+  {"id": 14, "title": "The Book Thief", "author": "Markus Zusak", "checked": false},
+  {"id": 15, "title": "Harry Potter and the Sorcerer’s Stone", "author": "J.K. Rowling", "checked": false},
+  {"id": 16, "title": "The Road", "author": "Cormac McCarthy", "checked": false},
+  {"id": 17, "title": "Sapiens: A Brief History of Humankind", "author": "Yuval Noah Harari", "checked": false},
+  {"id": 18, "title": "Becoming", "author": "Michelle Obama", "checked": false},
+  {"id": 19, "title": "The Kite Runner", "author": "Khaled Hosseini", "checked": false},
+  {"id": 20, "title": "The Hunger Games", "author": "Suzanne Collins", "checked": false}
+]
